@@ -1,0 +1,8 @@
+{"status":200,"message":"OK","data":{"clientId":3041,
+"clientName":"e dukan","clientFullName":"null null",
+"clientEmail":"kamlesh.kumar@ollosoft.com",
+"clientAlias":null,
+"clientImageUrl":"https://brick-company-logo.s3-ap-southeast-1.amazonaws.com/emptyProfile.png",
+"clientFavicon":null,
+"primaryColor":"#333333",
+"redirectRefId":40994}}
